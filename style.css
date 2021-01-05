@@ -1,5 +1,6 @@
 body{
     font-family: 'Raleway', sans-serif;
+    margin: 0px;
 
 
 }
@@ -15,8 +16,33 @@ h1{
      
      margin-left: 5%;
      padding-left: 5%;
-     padding-top: 5%;
+     
  }
  .about_me img{
      width: 50%;
   }
+  .top_banner{
+      background-image:url("image/top-banner.png");
+      background-repeat: no-repeat;
+      
+  }
+  section{
+      height: 500px;
+    }
+
+  .button{
+      background-color: yellow;
+      color: white;
+      font-weight: 700;
+      border-radius: 20px;
+      text-decoration: none;
+      padding: 5px 10px;
+  }
+
+
+
+
+
+
+
+

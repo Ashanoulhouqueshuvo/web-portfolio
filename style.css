@@ -3,6 +3,20 @@ body{
 
 
 }
+h1{
+    font-size: 50px;
+}
 .highlights{
     color:orange;
 }
+ .about_me{
+     width: 40%;
+     float: left;
+     
+     margin-left: 5%;
+     padding-left: 5%;
+     padding-top: 5%;
+ }
+ .about_me img{
+     width: 50%;
+  }

@@ -9,6 +9,7 @@ h1{
 }
 .highlights{
     color:orange;
+    font-weight: 700;
 }
  .about_me{
      width: 40%;
@@ -16,6 +17,7 @@ h1{
      
      margin-left: 5%;
      padding-left: 5%;
+     padding-top: 30px;
      
  }
  .about_me img{
@@ -28,6 +30,7 @@ h1{
   }
   section{
       height: 500px;
+      padding-bottom: 100px;
     }
 
   .button{
@@ -38,6 +41,21 @@ h1{
       text-decoration: none;
       padding: 5px 10px;
   }
+  .middle_part{
+      background-image: url("image/dream-bg.png");
+      background-repeat: no-repeat;
+      background-position: right;
+  }
+  .about{
+    width: 50%;
+    float:left;
+    
+    
+    
+    
+    
+    
+}
 
 
 

@@ -51,12 +51,27 @@ h1{
     float:left;
     
     
-    
-    
-    
-    
 }
-
+.shadow_experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 1opx;
+    height: 50%;
+}
+.Experience{
+    background-image: url("image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full_stack{
+    border: 7% solid;
+    border-image: linear-gradient(lightSlamon, tomato);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 19px;
+    color: teal;
+}
 
 
 
